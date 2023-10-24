@@ -38,6 +38,8 @@
 #### butterfly_corridor.png
 ![calm_sunset.png](calm_sunset.png)
 #### calm_sunset.png
+![capeweed_bay.png](capeweed_bay.png)
+#### capeweed_bay.png
 ![cascade_monochrome.png](cascade_monochrome.png)
 #### cascade_monochrome.png
 ![castle_in_the_sky.png](castle_in_the_sky.png)
@@ -90,6 +92,8 @@
 #### floating_rose.png
 ![flowers_velo.png](flowers_velo.png)
 #### flowers_velo.png
+![forest_pink_wawy.png](forest_pink_wawy.png)
+#### forest_pink_wawy.png
 ![four-season.png](four-season.png)
 #### four-season.png
 ![futurist_city_night.png](futurist_city_night.png)
@@ -110,8 +114,12 @@
 #### great_wave_of_kanawaga_ice_cream_ia.png
 ![guts-and-sky.png](guts-and-sky.png)
 #### guts-and-sky.png
+![halloween_witchs_brew_ai.png](halloween_witchs_brew_ai.png)
+#### halloween_witchs_brew_ai.png
 ![haloween_citrouille.png](haloween_citrouille.png)
 #### haloween_citrouille.png
+![haloween_witch_potion_brewing.png](haloween_witch_potion_brewing.png)
+#### haloween_witch_potion_brewing.png
 ![haraka_bay.png](haraka_bay.png)
 #### haraka_bay.png
 ![hogwart_night.png](hogwart_night.png)
@@ -158,6 +166,8 @@
 #### lune.png
 ![magical_lake.png](magical_lake.png)
 #### magical_lake.png
+![magical_night.png](magical_night.png)
+#### magical_night.png
 ![makima.png](makima.png)
 #### makima.png
 ![mallard_by_paul_gribble.png](mallard_by_paul_gribble.png)
@@ -188,6 +198,8 @@
 #### nigh_&_day.png
 ![night_sky_4k.png](night_sky_4k.png)
 #### night_sky_4k.png
+![ocean_waves_sunrise.png](ocean_waves_sunrise.png)
+#### ocean_waves_sunrise.png
 ![old.png](old.png)
 #### old.png
 ![one_more_dog_ia.png](one_more_dog_ia.png)
@@ -234,6 +246,8 @@
 #### samurai.png
 ![saturn_starfield.png](saturn_starfield.png)
 #### saturn_starfield.png
+![scary_halloween_forest_gate.png](scary_halloween_forest_gate.png)
+#### scary_halloween_forest_gate.png
 ![skyrim_constellation.png](skyrim_constellation.png)
 #### skyrim_constellation.png
 ![space_is_closer_that_it_seems.png](space_is_closer_that_it_seems.png)
@@ -284,3 +298,5 @@
 #### waves_dawn.png
 ![wave_sunset_8K.png](wave_sunset_8K.png)
 #### wave_sunset_8K.png
+![windows_xp_oil.png](windows_xp_oil.png)
+#### windows_xp_oil.png
