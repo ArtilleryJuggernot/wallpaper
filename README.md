@@ -64,6 +64,8 @@
 #### cosmic_desert_ia.png
 ![cozy_supra_september_2023.png](cozy_supra_september_2023.png)
 #### cozy_supra_september_2023.png
+![cubs_caring_for_one_nother.png](cubs_caring_for_one_nother.png)
+#### cubs_caring_for_one_nother.png
 ![Dark-red-Japan.png](Dark-red-Japan.png)
 #### Dark-red-Japan.png
 ![dark_rose_ia.png](dark_rose_ia.png)
@@ -192,6 +194,8 @@
 #### neon_waves.png
 ![new_atlantis_starfield.png](new_atlantis_starfield.png)
 #### new_atlantis_starfield.png
+![new_beginnings_anarkyart.png](new_beginnings_anarkyart.png)
+#### new_beginnings_anarkyart.png
 ![nier_automata.png](nier_automata.png)
 #### nier_automata.png
 ![nigh_&_day.png](nigh_&_day.png)
@@ -204,6 +208,8 @@
 #### old.png
 ![one_more_dog_ia.png](one_more_dog_ia.png)
 #### one_more_dog_ia.png
+![open_eye.png](open_eye.png)
+#### open_eye.png
 ![orphans_of_the_helix_christopher_balaskas.png](orphans_of_the_helix_christopher_balaskas.png)
 #### orphans_of_the_helix_christopher_balaskas.png
 ![out_of_time.png](out_of_time.png)
@@ -268,6 +274,10 @@
 #### sunset_ia.png
 ![tardis_beach.png](tardis_beach.png)
 #### tardis_beach.png
+![the_hope_for_peace.png](the_hope_for_peace.png)
+#### the_hope_for_peace.png
+![the_journey_back_to_yourself.png](the_journey_back_to_yourself.png)
+#### the_journey_back_to_yourself.png
 ![three_amigos.png](three_amigos.png)
 #### three_amigos.png
 ![thunderstruck_collection.png](thunderstruck_collection.png)
@@ -282,6 +292,8 @@
 #### turtle_house.png
 ![understand.png](understand.png)
 #### understand.png
+![vanaheim_een_verloren_verhaal_by_julian_bauer.png](vanaheim_een_verloren_verhaal_by_julian_bauer.png)
+#### vanaheim_een_verloren_verhaal_by_julian_bauer.png
 ![wallhaven-p2wq8p.png](wallhaven-p2wq8p.png)
 #### wallhaven-p2wq8p.png
 ![wallpaper-dark.png](wallpaper-dark.png)
@@ -300,3 +312,5 @@
 #### wave_sunset_8K.png
 ![windows_xp_oil.png](windows_xp_oil.png)
 #### windows_xp_oil.png
+![woman_with_swords.png](woman_with_swords.png)
+#### woman_with_swords.png
