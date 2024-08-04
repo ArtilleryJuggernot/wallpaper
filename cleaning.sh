@@ -7,7 +7,7 @@ function converting()
     name=$1
     newName=$(echo "$(basename "$1" | sed 's/\(.*\)\..*/\1/')".png)
     echo "Converting ${name} to ${newName}"
-    convert $name $newName
+    magick convert $name $newName
     echo -e "![${newName}](${newName})\n#### $newName" >> $backup_file
     rm $name
 }

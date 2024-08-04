@@ -6,6 +6,8 @@
 #### 89_nights_before.png
 ![a_beautiful_galaxy.png](a_beautiful_galaxy.png)
 #### a_beautiful_galaxy.png
+![a-castle-at-sunset-with-a-gondola-on-a-tranquil-river.png](a-castle-at-sunset-with-a-gondola-on-a-tranquil-river.png)
+#### a-castle-at-sunset-with-a-gondola-on-a-tranquil-river.png
 ![adventureland.png](adventureland.png)
 #### adventureland.png
 ![alena_aenami.png](alena_aenami.png)
@@ -24,6 +26,8 @@
 #### arch_anime_girl.png
 ![artistic-world.png](artistic-world.png)
 #### artistic-world.png
+![a-serene-seaside-house-bathed-in-pink-moonlight-nestled.png](a-serene-seaside-house-bathed-in-pink-moonlight-nestled.png)
+#### a-serene-seaside-house-bathed-in-pink-moonlight-nestled.png
 ![a-snowy-mountain-lake-with-a-snowy-mountain.png](a-snowy-mountain-lake-with-a-snowy-mountain.png)
 #### a-snowy-mountain-lake-with-a-snowy-mountain.png
 ![autumn_colors_nature_ny_park.png](autumn_colors_nature_ny_park.png)
@@ -72,6 +76,8 @@
 #### colorful-snow.png
 ![colour_spaceman.png](colour_spaceman.png)
 #### colour_spaceman.png
+![columbia-pictures-1920x1080-v0-w8t9fc6jq6gd1.png](columbia-pictures-1920x1080-v0-w8t9fc6jq6gd1.png)
+#### columbia-pictures-1920x1080-v0-w8t9fc6jq6gd1.png
 ![confusioncore.png](confusioncore.png)
 #### confusioncore.png
 ![cosmic-clockwork-galaxy.png](cosmic-clockwork-galaxy.png)
@@ -328,6 +334,8 @@
 #### space_is_closer_that_it_seems.png
 ![space-landspace.png](space-landspace.png)
 #### space-landspace.png
+![spiral-galaxy-by-ai.png](spiral-galaxy-by-ai.png)
+#### spiral-galaxy-by-ai.png
 ![starfield.png](starfield.png)
 #### starfield.png
 ![starry-height.png](starry-height.png)
